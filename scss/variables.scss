@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+h2,h3,h4,h5{
+    cursor: default;
+}
+
+// colors 
+
+$blue: #003983;
+$border1: #2e756c;
+$border2: #2e756c;
+$font-color1:#62aaee;
+$font-color2:#75adb7;
+$input-field: #3131319d;
